@@ -1,7 +1,4 @@
-------------------------------------------------
-Cybersecurity Expert & Open Source Fan!        
-Python (& Others) Developer, learning C Family.
-Linux user since forever (I use Arch BTW!)     
-Against Microsoft and Data Stealers.           
-Ethical Hacker for Fun!                        
-------------------------------------------------
+Gentoo Linux user who hates proprietary garbage
+
+> “An idiot admires complexity, a genius admires simplicity.”
+> ― Terry A. Davis
